@@ -16,8 +16,8 @@
 
 | Status        |  Link to API                                              | Description            |
 | ------------- | -------------------------------------------------------- | ---------------------- |
-| :green_heart: | <https://data.covid19bharat.org/v4/min/timeseries.min.json>  | Daily numbers across C,R,D and Tested per state (historical data).         |
-| :green_heart: | <https://data.covid19bharat.org/v4/min/data.min.json>  | Current day numbers across districts and states.   |
+| :green_heart: | <https://aviskumar.github.io/covid19bharat_data/v4/min/timeseries.min.json>  | Daily numbers across C,R,D and Tested per state (historical data).         |
+| :green_heart: | <https://aviskumar.github.io/covid19bharat_data/v4/min/data.min.json>  | Current day numbers across districts and states.   |
 
 **Note**: Please consider using the above endpoints for all your data needs. All the data we show on the website is fuelled by the above endpoints.
 
